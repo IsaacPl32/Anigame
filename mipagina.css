@@ -1,0 +1,36 @@
+body{background-color: #bcfffc;font-family: sans-serif; margin: 0;}
+a{ text-decoration: none; color: rgb(243, 78, 2);}
+header{display: flex;height: 70px;background-color:rgb(151, 196, 255) ; justify-content:space-between; align-items: center; padding: 10px;}
+
+.logo {display: flex;align-items: center;}
+.logo img{height: 75px; margin-right: 10px;}
+.logo img{height: 75px; margin-right: 10px;}
+
+
+nav a {font-weight: 600;padding-right: 10px;}
+nav a:hover{color: white;}
+
+
+section{width: 75%; background-color: #ddeced; float: left;}
+section h1{text-align: center;padding: 00.5em; color: #663399; font-size: 1.4em;}
+section h2{text-align: center;padding: 00.5em; color: #663399; font-size: 1.2em;}
+section h3{text-align: left;padding: 00.3em 3mm; color: #191970; font-size: 1em;}
+section h4{text-align: left;font-weight: bold;padding: 1em; color: #000000; font-size: 1em;}
+
+
+article{margin: 00.5em 3em;padding: 00.5em 3em;background-color: #B689C0; border: 3px #F9CEEE;}
+article p{text-align: justify;}
+
+
+aside {width: 25%;float: left;}
+#anuncio1 {margin: 20px; padding: 10px; border: 2px solid rgb(94, 91, 255); background-color: rgb(124, 137, 255);}
+#anuncio1 h1{font-size: 1.1em; text-align: left;padding: 0.2em;}
+#anuncio1 h2{font-size: 1.5em; text-align: center;padding: 0.5em;}
+#anuncio1 p{font-size: 0.9em; padding: 0.2em;}
+img {display: block;margin-left: auto;width: 70%; border: 1px solid #663966;align-content: center;}
+
+
+footer {clear: both; background-color:rgb(255, 187, 147);}
+footer h1 {text-align: center; font-size: 1.4em;color: rgb(0, 32, 211); padding: 0.7em;}
+footer h2 {text-align: center; font-size: 1em; padding: 0.4em;}
+footer a {text-decoration: double; color: green;}
